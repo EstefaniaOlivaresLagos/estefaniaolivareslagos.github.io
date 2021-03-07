@@ -1,0 +1,33 @@
+{
+  "attendants": {
+    "nk": {
+      "nameFirst": "Nitin",
+      "nameLast": "Kaushik",
+      "address": "Somestreet 10"
+    },
+    "lb": {
+      "nameFirst": "Leon",
+      "nameLast": "Blaeser",
+      "address": "Somestreet 12"
+    },
+    "sm": {
+      "nameFirst": "Silvia",
+      "nameLast": "Martin",
+      "address": "Somestreet 14"
+    }
+  },
+  "cats": {
+    "cat1": {
+      "name": "Dieter",
+      "colour": "black"
+    },
+    "cat2": {
+      "name": "Elke",
+      "colour": "gold"
+    },
+    "cat3": {
+      "name": "Fred",
+      "colour": "brown"
+    }
+  }
+}
